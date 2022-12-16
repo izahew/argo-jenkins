@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: hello-world
-        image: docker.io/izahew/hello-world:2
+        image: izahew/hello-world:5
         ports:
         - containerPort: 8080
