@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: hello-world
-        image: izahew/hello-world:7
+        image: izahew/hello-world:8
         ports:
         - containerPort: 8080
